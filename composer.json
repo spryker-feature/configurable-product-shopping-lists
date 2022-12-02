@@ -1,0 +1,21 @@
+{
+    "name": "spryker-feature/configurable-product-shopping-lists",
+    "description": "Configurable Product Shopping Lists [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0",
+        "spryker-shop/product-configuration-shopping-list-widget": "^1.0.0",
+        "spryker/product-configuration-shopping-list": "^1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202212.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/shopping-lists": "Recommended feature dependency."
+    }
+}
