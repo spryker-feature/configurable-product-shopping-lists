@@ -1,6 +1,6 @@
 # Spryker Feature: Configurable Product Shopping Lists
 
-The Configurable Product Shopping List feature allows customers to save configurable products in their shopping list. Customers can save products that are fully configured and products that are not completely configured, to finish configuration at a later time.
+The Configurable Product Shopping Lists feature allows customers to save configurable products in their shopping list. Customers can save products that are fully configured and products that are not completely configured, to finish configuration at a later time.
 
 ## Installation
 
